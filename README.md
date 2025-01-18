@@ -29,15 +29,14 @@
 ### 环境依赖
 1. 安装 Python（推荐版本 >= 3.8）。
 2. 安装必要的依赖库：
-'''
+~~~
  pip install numpy matplotlib scikit-image opencv-python-headless pillow
-
-'''
+~~~
 ### 启动程序
 运行以下命令启动应用程序：
-'''
+~~~
 python 形之声_v1.py
-'''
+~~~
 
 ### 操作步骤
 1. 打开应用后，选择“文件”菜单以加载图片或视频。
